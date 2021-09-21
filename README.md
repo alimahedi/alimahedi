@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @alimahedi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-alimahedi/alimahedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Interested in Computers & Smartphones
+- 🌱 Currently learning Electrical Engineering
+- 💞️ I’m looking to Collaborate on LINUX, WEB_DEVELOPMENT & SOFTWARE ENGINEERING
+- 📫 Email: alimahedi.business@gmail.com
+-     No. +91 8331060138 
+-     Telegram: t.me/AliMahedi
