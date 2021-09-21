@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alimahedi
 - 👀 Interested in Computers & Smartphones
 - 🌱 Currently learning Electrical Engineering
-- 💞️ I’m looking to Collaborate on LINUX, WEB_DEVELOPMENT & SOFTWARE ENGINEERING
+- 💞️ I’m looking to Collaborate on LINUX, Web_Development & Software Engineering
 - 📫 Email: alimahedi.business@gmail.com
 -     No. +91 8331060138 
 -     Telegram: t.me/AliMahedi
